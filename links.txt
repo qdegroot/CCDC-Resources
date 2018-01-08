@@ -1,2 +1,3 @@
 https://www.upguard.com/blog/the-windows-server-hardening-checklist
 https://www.upguard.com/blog/10-essential-steps-for-configuring-a-new-server
+https://www.loc.gov/preservation/digital/formats/fdd/descriptions.shtml
